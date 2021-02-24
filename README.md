@@ -17,8 +17,6 @@
     <a href="https://www.linkedin.com/in/italo-santos-dev/">Linkedin</a>
  </p>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dev-italosantos&count_private=true&show_icons=true&hide_title=true&hide=stars" />
-
 ### Hey! Welcome to my profile! How is it going? :wave: :blush:
 
 - :computer:  Dart Flutter, SQL Server, Node.JS, Typescript, C# 
