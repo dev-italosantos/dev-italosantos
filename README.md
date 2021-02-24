@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hey! Welcome to my profile! How is it going? :wave: :blush:
 
-<!--
-**dev-italosantos/dev-italosantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Italo Santos 
 
-Here are some ideas to get you started:
+Software Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-santos-dev/)](https://www.linkedin.com/in/italo-santos-dev/) 
+[![Gmail Badge](https://img.shields.io/badge/italotayllor@gmail.com?style=flat-square&logo=Gmail&logoColor=white&link=mailto:italotayllor@gmail.com)](mailto:italotayllor@gmail.com)
+
+:coffee: | Delighted, through development technologies. 
+
+- :computer:  Dart-Flutter, SQL Server, Node, Typescript, C# 
+- :rocket:    Learning is continuous and there will always be a next level
+
