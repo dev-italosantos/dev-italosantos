@@ -23,4 +23,4 @@
 
 - :computer:  Dart Flutter, SQL Server, Node.JS, Typescript, C# 
 
-:coffee:     Delighted, through development technologies. 
+- :coffee:    Delighted, through development technologies. 
