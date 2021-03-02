@@ -19,6 +19,6 @@
  
 ### Hey! Welcome to my profile! How is it going? :wave: :blush:
 
-- :computer:  Dart Flutter, SQL Server, Node.JS, Typescript, C# 
+- :computer:  Flutter, SQL Server, Node.JS, Typescript, C# 
 
 - :coffee:    Delighted, through development technologies. 
