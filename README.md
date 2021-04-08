@@ -10,8 +10,6 @@
     <br>
     <a href="italotayllor@gmail.com">E-mail</a>
     ·
-    <a href="https://www.instagram.com/italosantossz/">Instagram</a>
-    ·
     <a href="https://github.com/dev-italosantos/">GitHub</a>
     ·
     <a href="https://www.linkedin.com/in/italo-santos-dev/">Linkedin</a>
