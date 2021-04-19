@@ -3,7 +3,7 @@
     <img src="https://github.com/dev-italosantos/Developer-Portfolio-Project/blob/master/img/logo.1.png" alt="logo Readme" width="10%" height="10%">
   </a>
 </p>
-<h3 align="center">Ítalo dos Santos</h3>
+<h3 align="center">Ítalo Santos</h3>
  <p align="center">
     <a href="https://dev-italosantos.github.io/Developer-Portfolio-Project/"><strong>Software Developer.</strong></a>
     <br>
