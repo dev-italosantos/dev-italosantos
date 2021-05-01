@@ -19,4 +19,4 @@
 
 - :computer:  Flutter, C#, SQL Server...
 
-- :coffee:    Delighted, through development technologies. 
+- :coffee:    Entranced by development technologies. 
