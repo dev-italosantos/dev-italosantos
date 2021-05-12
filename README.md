@@ -4,16 +4,22 @@
   </a>
 </p>
 <h3 align="center">Ítalo Santos</h3>
- <p align="center">
+ <div align="center">
     <a href="https://dev-italosantos.github.io/Developer-Portfolio-Project/"><strong>Software Developer.</strong></a>
     <br>
     <br>
-    <a href="italotayllor@gmail.com">E-mail</a>
-    ·
-    <a href="https://github.com/dev-italosantos/">GitHub</a>
-    ·
-    <a href="https://www.linkedin.com/in/italo-santos-dev/">Linkedin</a>
- </p>
+    <p align="center">
+    <a href="https://www.linkedin.com/in/italo-santos-dev/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:italotayllor@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/italosantossz/">
+        <img src="https://img.shields.io/badge/instagram-%236C5CE7.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+ </div>
 <div align=""> 
   <h3>Hey! Welcome to my profile! How is it going? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
