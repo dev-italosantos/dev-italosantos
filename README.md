@@ -2,8 +2,8 @@
 <h4 align="center"><strong>Entranced by development technologies</strong></h4>
 
 - :coffee:  I’m currently learning **Flutter and NodeJS**
-- :coffee:  But I'm always open to discover new things
-- :coffee:  Maintaining continuous learning
+- :telescope:  But I'm always open to discover new things
+- :rocket:  Maintaining continuous learning
 
 ## Skills
 <p align="center">
