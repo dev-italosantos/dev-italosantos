@@ -11,15 +11,15 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/50/000000/javascript.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+    <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.javascript.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+    <a href=""><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank"><img width="40" height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a>
+    <a href=""><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org/en/" target="_blank"> <img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a> 
+    <a href="https://nodejs.org/en/"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
 </p>
