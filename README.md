@@ -5,7 +5,7 @@
 - :telescope:  But I'm always open to discover new things
 - :rocket:  Maintaining continuous learning
 
-## Skills
+## Languages and Tools:
 <p align="center">
     <a href="https://flutter.dev"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
