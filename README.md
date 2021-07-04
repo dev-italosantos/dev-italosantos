@@ -1,11 +1,11 @@
-<h2 align="center"> Hey! 👋 Welcome to my profile! How is it going? </h2>
+<h2 align="center">Hey! 👋 Welcome to my profile! How is it going?</h2>
 <h4 align="center"><strong>Entranced by development technologies</strong></h4>
 
 - :coffee:  I’m currently learning **Flutter, CSharp and NodeJS**
 - :telescope:  But I'm always open to discover new things
 - :rocket:  Maintaining continuous learning
 
-## Languages and Tools:
+<h2>Languages and Tools:</h2>
 <p align="center">
     <a href="https://flutter.dev"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
