@@ -3,7 +3,7 @@
 <h4 align="center"><strong>🏃 Entranced by development technologies!
 </strong></h4>
 
-- :coffee:  I’m currently learning **Flutter, Java and NodeJS**
+- :coffee:  I’m currently learning **Flutter, Java and Kotlin**
 - :telescope:  But I'm always open to discover new things
 - :rocket:  Maintaining continuous learning
 
