@@ -1,4 +1,4 @@
-<h2 align="center">Ei! 👋 Bem-vindo ao meu perfil! Como está indo?</h2>
+<h2>Ei! 👋 Bem-vindo ao meu perfil :/</h2>
 <h5 align="center"><a href="https://profile-dev-italo-santos.web.app/#/">Portfolio Italo Santos</a>
 <h4 align="center"><strong>🏃 Encantado com tecnologias de desenvolvimento!
 </strong></h4>
