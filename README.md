@@ -13,7 +13,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/50/000000/javascript.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+    <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
