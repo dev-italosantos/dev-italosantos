@@ -3,7 +3,7 @@
 <h4 align="center"><strong>🏃 Entranced by development technologies!
 </strong></h4>
 
-- :coffee:  I’m currently learning **Flutter, Java and Kotlin**
+- :coffee:  I’m currently learning **Java and Kotlin**
 - :telescope:  But I'm always open to discover new things
 - :rocket:  Maintaining continuous learning
 
@@ -15,9 +15,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
+    <a href=""><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
