@@ -2,7 +2,7 @@
 <h5 align="center"><a href="https://profile-dev-italo-santos.web.app/#/">Portfolio Italo Santos</a>
 <h4 align="center"><strong>🏃 Encantado com tecnologias de desenvolvimento!</strong></h4>
     
-- :coffee:  Atualmente estou aprendendo **Java and Flutter**
+- :coffee:  Atualmente estou aprendendo **Java e Flutter**
 - :telescope:  Mas estou sempre aberto para descobrir coisas novas
 - :rocket:  Manter o aprendizado contínuo
 
