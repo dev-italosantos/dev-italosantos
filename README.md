@@ -1,12 +1,12 @@
-<h2>Ei! 👋 Bem-vindo ao meu perfil!</h2>
+<h2>Hey! 👋 Welcome to my profile!</h2>
 <h5 align="center"><a href="https://profile-dev-italo-santos.web.app/#/">Portfolio Italo Santos</a>
-<h4 align="center"><strong>🏃 Encantado com tecnologias de desenvolvimento!</strong></h4>
+<h4 align="center"><strong>🏃 Enchanted by development technologies!</strong></h4>
     
-- :coffee:  Atualmente estou aprendendo **Java e Flutter**
-- :telescope:  Mas estou sempre aberto para descobrir coisas novas
-- :rocket:  Manter o aprendizado contínuo
+- :coffee:  I'm currently learning **Java e Flutter**
+- :telescope:  But I'm always open to discovering new things
+- :rocket:  Keep learning continuous and practical
 
-<h2>Idiomas e Ferramentas:</h2>
+<h2>Languages and Tools:</h2>
 <p align="center">
     <a href="https://flutter.dev"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
