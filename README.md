@@ -8,17 +8,17 @@
 
 <h2>Languages and Tools:</h2>
 <p align="center">
-    <a href="https://flutter.dev"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/50/000000/javascript.png"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://flutter.dev"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a> 
+    <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://nodejs.org/en/"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> 
+    <a href="https://nodejs.org/en/"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 </p>
