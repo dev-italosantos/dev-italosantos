@@ -21,5 +21,8 @@
 <h2>Contact me on:</h2>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-santos-dev/)
+(https://www.linkedin.com/in/italo-santos-dev/)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/italosantsz/)
+(https://www.instagram.com/italosantsz/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=isantos.worldtec@gmail.com)
+(mailto:isantos.worldtec@gmail.com)
