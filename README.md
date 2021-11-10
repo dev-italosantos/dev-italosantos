@@ -8,6 +8,7 @@
 
 <h2>Languages and Tools:</h2>
 <p align="center">
+    <br>
     <a href=""><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
@@ -19,10 +20,7 @@
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 </p>
 <h2>Contact me on:</h2>
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-santos-dev/)
-(https://www.linkedin.com/in/italo-santos-dev/)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/italosantsz/)
-(https://www.instagram.com/italosantsz/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=isantos.worldtec@gmail.com)
-(mailto:isantos.worldtec@gmail.com)
+    
+<a href="https://www.linkedin.com/in/italo-santos-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-santos-dev/)</a>
+<a href="https://www.instagram.com/italosantsz/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/italosantsz/)</a>
+<a href="mailto:isantos.worldtec@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=isantos.worldtec@gmail.com)</a>
