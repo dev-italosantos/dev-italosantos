@@ -30,3 +30,8 @@
 <a href="https://www.linkedin.com/in/italo-santos-dev/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-santos-dev/)</a>
 <a href="https://www.instagram.com/italosantsz/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/italosantsz/)</a>
 <a href="mailto:isantos.worldtec@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=isantos.worldtec@gmail.com)</a>
+
+<h2>Views and Followers</h2>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=dev-italosantos">
+</a>
