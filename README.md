@@ -2,7 +2,7 @@
 <h5 align="center"><a href="https://profile-dev-italo-santos.web.app/#/">Portfolio Italo Santos</a>
 <h4 align="center"><strong>🏃 Enchanted by development technologies!</strong></h4>
     
-- :coffee:  I'm currently learning **Java e Flutter**
+- :coffee:  I'm currently learning **Java and Flutter**
 - :telescope:  But I'm always open to discovering new things
 - :rocket:  Keep learning continuous and practical
 
@@ -19,7 +19,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 </p>
-
+<br/>
 <a href="https://github.com/dev-italosantos"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-italosantos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
     
 <h2>Contact me on:</h2>
