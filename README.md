@@ -32,6 +32,6 @@
 <a href="mailto:isantos.worldtec@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=isantos.worldtec@gmail.com)</a>
 
 <h2>Views and Followers</h2>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/dev-italosantos">
     <img src="https://komarev.com/ghpvc/?username=dev-italosantos">
 </a>
