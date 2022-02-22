@@ -11,8 +11,6 @@
     <br>
     <a href=""><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://flutter.dev"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://firebase.google.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
