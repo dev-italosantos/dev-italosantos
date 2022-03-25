@@ -21,9 +21,9 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 </p>
-<br/>
+<!-- <br/>
 <a href="https://github.com/dev-italosantos"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-italosantos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
-    
+     -->
 <h2>Contact me on:</h2>
 
 <a href="https://www.linkedin.com/in/italo-santos-dev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
