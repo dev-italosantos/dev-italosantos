@@ -2,7 +2,7 @@
 <h5 align="center"><a href="https://profile-dev-italo-santos.web.app/#/">Portfolio Italo Santos</a>
 <h4 align="center"><strong>🏃 Enchanted by development technologies!</strong></h4>
     
-- :coffee:  I'm currently learning **Java, Flutter and Java Script **
+- :coffee:  I'm currently learning **Java, Flutter and Java Script**
 - :telescope:  But I'm always open to discovering new things
 - :rocket:  Keep learning continuous and practical
 
