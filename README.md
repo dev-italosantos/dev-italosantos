@@ -21,12 +21,4 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 </p>
-<!-- <br/>
-<a href="https://github.com/dev-italosantos"><img alt="TauzActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=dev-italosantos&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
-     -->
-<h2>Contact me on:</h2>
 
-<a href="https://www.linkedin.com/in/italo-santos-dev/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/italosantsz/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://discord.gg/italos4ntsz#4897" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a> 
-<a href="mailto:isantos.worldtec@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=isantos.worldtec@gmail.com)</a>
